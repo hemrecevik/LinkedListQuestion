@@ -1,6 +1,7 @@
 # LinkedListQuestion
 typedef struct polinom
-{ int katsayi;
+{
+int katsayi;
 int us;
 struct polinom *sonraki;
 } Polinomlar;
