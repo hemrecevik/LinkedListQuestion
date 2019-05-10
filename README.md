@@ -4,6 +4,7 @@ typedef struct polinom
 int us;
 struct polinom *sonraki;
 } Polinomlar;
+
 Yukarıdaki yapıdaki iki polinomu polinom1.txt ve polinom2.txt dosyalarından okuyarak
 toplayan ve toplam sonucunu polinom3.txt dosyasına yazan bir programı istediğiniz bir programlama
 dilini kullanarak gerçekleştiriniz. Polinom toplama işlemi aşağıdaki formatta olup, tek yönlü bağlı liste
